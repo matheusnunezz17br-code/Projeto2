@@ -24,4 +24,4 @@ Abra o arquivo no PyCharm, clique no botão de Run e informe o seu salário que 
 
 # O que eu aprendi?
 
-A usar elfe, elif e if de maneira mais eficiente com base em salários dentro de uma hierarquia de uma empresa de tecnologia.
+A usar else, elif e if de maneira mais eficiente com base em salários dentro de uma hierarquia de uma empresa de tecnologia.
