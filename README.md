@@ -4,6 +4,8 @@
 
 Este é um sistema no qual consiste em você informar seu salário como um programador e o sistema irá falar qual é a sua função dentro da empresa com base na hierarquia salarial seguindo os seguintes valores:
 
+Estagiário de Programador - Entre R$1500 até R$3499.
+
 Programador Júnior - Entre R$3500 até R$4500.
 
 Programador Pleno - Entre R$5500 até R$8500.
